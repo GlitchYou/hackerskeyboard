@@ -38,4 +38,10 @@ Application developers: see [the page about keyboard support in applications](ht
 
 ### Modifications
 
+* Theme: Material Dark
+* Keyboard height, portrait: 27%
+* Key label scaling: 80%
+* Suggestion label scaling: 80%
+* 5th row height adjustment: 80%
+
 ![hk-4row-mod-en-s.png](hk-4row-mod-en-s.png)
