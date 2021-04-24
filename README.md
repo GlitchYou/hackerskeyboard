@@ -33,3 +33,9 @@ Comments, requests, or contributions? Join the [discussion group](http://groups.
 Application developers: see [the page about keyboard support in applications](https://github.com/klausw/hackerskeyboard/wiki/KeyboardSupportInApplications) if you want to enable the additional keys in your Android application, the same method also works for hardware USB or Bluetooth keyboards.
 
 ![hk-5row-en-s.png](hk-5row-en-s.png)
+
+---
+
+### Modifications
+
+![hk-4row-mod-en-s.png](hk-4row-mod-en-s.png)
